@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.employee-table{
+    margin-top:20px;
+}
+.dropdown-text-overflow{
+    max-width: 170px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
